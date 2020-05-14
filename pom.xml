@@ -34,7 +34,7 @@
         <dependency>
             <groupId>com.safety51</groupId>
             <artifactId>51api</artifactId>
-            <version>0.0.10-SNAPSHOT</version>
+            <version>0.0.9.RELEASE</version>
         </dependency>
 
         <!-- Dubbo Spring Boot Starter -->
